@@ -1,6 +1,7 @@
 {
   "name": "mmcagentur/hello-world",
   "description": "Say hello to the world!",
+  "license": "MIT",
   "require": {
     "php": "^8"
   }
