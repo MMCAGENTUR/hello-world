@@ -1,0 +1,7 @@
+{
+  "name": "mmcagentur/hello-world",
+  "description": "Say hello to the world!",
+  "require": {
+    "php": "^8"
+  }
+}
